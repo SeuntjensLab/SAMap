@@ -38,6 +38,10 @@ Rscript for data preparation for tau calculations.
 
 Jupyter notebook to change the color scale from RGB to CMY.
 
+#### scopeloomr.R
+
+Script to generate loom files for data visualization in SCope.
+
 
 ## Scripts used for cross-species comparisons with SAMap
 
