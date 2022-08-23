@@ -1,6 +1,6 @@
 # Styfhals_2022
 
-## Scripts used for data analysis as part of the following preprint:
+## Scripts used for data analysis
 ```
 Styfhals, R., Zolotarov, G., Hulselmans, G., Spanier, K. I., Poovathingal, S., Elagoz, A. M., Deryckere, A., Rajewsky, N., Ponte,
 G., Fiorito, G. Aerts, S., Seuntjens, E. (2022). Cell type diversity in a developing octopus brain. BioRxiv, 1–34.
