@@ -47,7 +47,7 @@ Please cite their most recent publication when using SAMap: https://elifescience
 
 #### SAMapMakeH5ADfiles.sh 
 
-#### SAMap_Octopus_Fly.sh
+#### SAMap_Octopus_Fly
 
 #### Cross_species_analysis.R
 Rscript used to visualize cross-species mappings.
@@ -68,8 +68,6 @@ conda activate SAMapv0.1.6
 ```
 pip install .
 ```
-### Cross_species_analysis.R
-R code used to analyze and visualize SAMap results
 
 
 
