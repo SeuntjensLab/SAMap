@@ -38,7 +38,10 @@ Rscript for data preparation for tau calculations.
 
 Rscript for a two-sided Fisher's Exact Test to analyze the overrepresentation of certain gene sets versus the background. 
 Contingency tables should be constructed accordingly so that Odds Ratio's < 1 indicate enrichment, Odds Ratio's > indicate an underrepresentation.  
+
+```
 matrix(c(total number of other genes in cell type of interest, total number of genes of interest in cell type of interest, total number of other genes in all other cell types, total number of genes of interest in all other cell types), nrow=2)
+```
 
 #### tSNE_RGB_to_CMY.ipynb
 
