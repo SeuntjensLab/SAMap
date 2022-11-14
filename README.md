@@ -23,7 +23,7 @@ Code used to analyze Bulk RNA seq data and to identify differentially expressed 
 
 #### iCytoTRACE.R
 
-Code to assess transcriptional diversity
+Code to assess transcriptional diversity.
 
 #### preprocessing_and_clusterstability.R
 
