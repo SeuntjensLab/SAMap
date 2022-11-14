@@ -7,10 +7,6 @@ Styfhals, R., Zolotarov, G., Hulselmans, G., Spanier, K. I., Poovathingal, S., E
 G., Fiorito, G. Aerts, S., Seuntjens, E. (2022). Cell type diversity in a developing octopus brain. BioRxiv, 1–34.
 ```
 
-## Scripts used for genome annotation: extending the 3' ends based on FLAM-seq data
-
-
-
 ## Scripts used for data analysis
 
 #### Cell type tree_script.R
